@@ -1,0 +1,97 @@
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form1.resources
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form10.resources
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form2.resources
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form3.resources
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form4.resources
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form5.resources
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form6.resources
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form7.resources
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form8.resources
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Properties.Resources.resources
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.csproj.GenerateResource.Cache
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\QRCodeBasedLockerSystem.exe.config
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\QRCodeBasedLockerSystem.exe.manifest
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\QRCodeBasedLockerSystem.application
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\QRCodeBasedLockerSystem.exe
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\QRCodeBasedLockerSystem.pdb
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\AForge.dll
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\AForge.Video.dll
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\MySql.Data.dll
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\zxing.dll
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\zxing.presentation.dll
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\AForge.xml
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\AForge.Video.xml
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\MySql.Data.xml
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\zxing.pdb
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\zxing.xml
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\zxing.presentation.pdb
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\bin\Debug\zxing.presentation.xml
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.exe.manifest
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.application
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.exe
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.pdb
+C:\Users\Zamora\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.csprojResolveAssemblyReference.cache
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\QRCodeBasedLockerSystem.exe.config
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.exe
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.pdb
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.csprojResolveAssemblyReference.cache
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form1.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form10.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form2.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form3.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form4.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form5.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form6.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form7.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form8.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Properties.Resources.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.csproj.GenerateResource.Cache
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.awdwa.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\QRCodeBasedLockerSystem.exe.manifest
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\QRCodeBasedLockerSystem.application
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\QRCodeBasedLockerSystem.exe
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\QRCodeBasedLockerSystem.pdb
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\AForge.dll
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\AForge.Video.dll
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\zxing.dll
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\zxing.presentation.dll
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\AForge.xml
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\AForge.Video.xml
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\MySql.Data.xml
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\zxing.pdb
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\zxing.xml
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\zxing.presentation.pdb
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\zxing.presentation.xml
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.exe.manifest
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.application
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\MySql.Web.dll
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\MySql.Web.xml
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.csproj.QRCodeBasedLockerSystem.exe.config
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\MySql.Data.dll
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.USER.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form11.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form12.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form13.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form9.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form15.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form14.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form16.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\QRCoder.dll
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\bin\Debug\UnityEngine.dll
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form17.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form18.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form19.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form20.resources
+C:\Users\QRCODE\Documents\Visual Studio 2015\Projects\QRCodeBasedLockerSystem - Copy (2)\QRCodeBasedLockerSystem\obj\Debug\QRCodeBasedLockerSystem.Form21.resources
